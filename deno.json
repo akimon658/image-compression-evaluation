@@ -1,0 +1,12 @@
+{
+  "fmt": {
+    "semiColons": false
+  },
+  "imports": {
+    "@std/csv": "jsr:@std/csv@1.0.3",
+    "@std/path": "jsr:@std/path@1.0.8",
+    "sharp": "npm:sharp@0.33.5",
+    "sharp-iqa": "npm:sharp-iqa@1.0.0",
+    "ssim.js": "npm:ssim.js@3.5.0"
+  }
+}
